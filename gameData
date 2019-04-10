@@ -1,0 +1,83 @@
+Game Snake and Ladder
+
+Team - Ash Rupali Sukhajeet Sunny
+
+Player - 2
+
+User{id:1 Name:player1 position: }
+User{id:2 Name:player2 position: }
+
+
+Dice - 1 with 6 side of incrementing number start from 1 to 6.
+
+Board -The board is typically a 10x10 grid of 100 serially numbered square cells. Number 1 is placed at the bottom left corner of the board and numbers 2-10 follow sequentially to the right. Number 11 is directly above 10 in the row above and now the sequence is left-progressing. Number 21 is directly above 20 and so on. This type of board sequencing is called boustrophedon. Each two number represented by two different color.
+
+Finally we draw a 10 x 10 white rectangle with a black border. This covers the entire board, starting from the top left corner (0, 0).
+Draw a grid 10 x 10 = 100 rectangle with black border. 
+
+Keep a Snakes on follolwing Position - 
+1. 95 to 56
+2. 62 to 18
+3. 36 to 06
+4. 88 to 24
+
+
+
+Keep a Ladder on following Position -
+1. 06 to 14
+2. 08 to 10
+3. 22 to 74
+4. 88 to 99
+5. 71 to 92
+
+Strategy- There is no strategy involved in the play of this game which determined solely by chance with the roll of a die.
+
+Objective- The first player to land on the 100th square wins the game. After this, other players may continue for position.
+
+Variations- The number of snakes as compared to ladders is various. Older boards typically have more snakes, entailing a harder game, whereas newer boards often have an equal amount of or more ladders. The length of the snakes and ladders is also various. Boards of different shapes and sizes have been devised. Some use the same boustrophedon pattern on boards with 8 x 8, 9 x 9, or other grids; while another one from the Victorian era is a circular spiral with 100 steps. Some games use two dice per roll, while others may use differing numbers or types of dice. 
+
+How to play:
+
+- Each player puts their counter on the space that says 'start here'.
+- Take it in turns to roll the dice. Move your counter forward the number of spaces shown on the dice.
+- If your counter lands at the bottom of a ladder, you can move up to the top of the ladder.
+- If your counter lands on the head of a snake, you must slide down to the bottom of the snake.
+- The first player to get to the space that says 'home' is the winner.
+
+
+1.Understand the object of the game. The object of the game is to be the first player to reach the end by moving  across the board from square one to the final square. Most boards wrap back and forth, so you move left to right across first row, then move up to the second and move right to left, and so on.[2]
+- Follow the numbers on the board to see how to move forward. For example, if you rolled a five and you were on space number 11, then you would move your game piece to space number 16.
+
+2.Decide who goes first. Each player should roll one die to see who gets the highest number. Whoever rolls the highest number gets to take the first turn. After the first player takes a turn, the person sitting to that player’s left will take a turn. Play continues in a circle going left.
+- If two or more people roll the same number, and it is the highest number rolled, each of those people roll the die an additional time to see who gets to go first.
+
+3. Roll the die and move. To take your turn, roll the die again and read the number that you rolled. Pick up your game piece and move forward that number of spaces. For example, if you roll a two, move your piece to square two. On your next turn, if you roll a five, move your piece forward five squares, ending up on square seven.[3]
+- Some people play that you can only move onto the board if you roll a one, and if you don't get a one, you just skip your turn. This isn't recommended, since this can be frustrating for unlucky players.
+
+4. Climb up ladders. The ladders on the game board allow you to move upwards and get ahead faster. If you land exactly on a square that shows an image of the bottom of a ladder, then you may move your game piece all the way up to the square at the top of the ladder.[4]
+- If you land at the top of a ladder or somewhere in the middle of a ladder, just stay put. You never move down ladders.
+
+5. Slide down snakes or chutes. Some versions have snakes on the board, while others have chutes (slides). Snakes (or chutes) move you back on the board because you have to slide down them. If you land exactly at the top of a snake or chute, slide your game piece all the way to the square at the bottom of the snake or chute.[5]
+- If you land on a square that is in the middle or at the bottom of a snake (or chute), just stay put. You only slide down if you land on the top square of a snake (or chute).
+
+6. Take an extra turn if you roll a six. If you roll a six, then you get an extra turn. First, move your piece forward six squares and then roll the die again. If you land on any snakes or ladders, follow the instructions above to move up or down and then roll again to take your extra turn. As long as you keep rolling sixes, you can keep moving![6]
+
+7.
+Land exactly on the last square to win. The first person to reach the highest square on the board wins, usually square 100. But there's a twist! If you roll too high, your piece "bounces" off the last square and moves back. You can only win by rolling the exact number needed to land on the last square.[7]
+- For example, if you are on square 99 and roll a four, move your game piece to 100 (one move), then "bounce" back to 99, 98, 97 (two, three, then four moves.) If square 97 is a snake head, slide as usual.
+
+Part Two of Two:
+Adding Variant Rules
+
+
+1. Use a faster victory rule. Having to land exactly on the final square makes the game more exciting, since it gives people a chance to catch up, but it can also make the game take too long. Instead, you can let people roll higher than they need to reach 100.
+- For a little more excitement, when someone reaches or passes 100, give each other player one turn to try to beat them. If someone would end up higher (such as 104 instead of 101), he wins. Two or more people can tie and win together this way, if they end up on the same square.
+
+2. Add a little strategy. Have each player play with two game pieces, each the same color so no one gets confused. When you roll the die, you can move one of your two pieces by that amount. You need to have both of your pieces reach the last square in order to win.[8]
+
+3. Compete with your opponent. In this variation, each player starts on square one. To take your turn, roll two dice instead of one. Choose one die and move your piece forward by that amount. With your remaining die, you can move another player forward by the amount on that die.[9]
+- For a much "meaner" variation, and potentially a much longer game, whenever you land exactly on the same square as another game piece, the piece that was already there moves all the way back to the beginning, and has to roll to get on the board again.
+
+Have fun!
+
+
